@@ -19,6 +19,9 @@ npm run build --report
 #api  setup (optional not madantory) 
 you can  use your own api key in this application instead of existing one
 if you do not have api key generate with your own google account
+for more details...
+visit
+
 https://developers.google.com/youtube/v3
 cool not a big deal its super simple !!
 ```
